@@ -1,0 +1,15 @@
+{
+	"name": "front-end",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"sass": "sass --watch ./public/style/sass_modules/input.scss ./public/style/sass_modules/output.css"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"sass": "^1.32.11",
+		"xmlhttprequest": "^1.8.0"
+	}
+}
